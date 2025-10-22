@@ -3,6 +3,9 @@
 ## 📚 Table of Contents
 
 - [Background Business Case](#background-business-case)
+- [Goals](#goals)
+- [Implementation](#implementation)
+- [Process](#process)
 
 ## Background Business Case
 
