@@ -6,6 +6,11 @@
 - [Goals](#goals)
 - [Implementation](#implementation)
 - [Process](#process)
+  - [Vendor Sourcing](#1️⃣-Vendor--Sourcing)
+  - [Purchasing](#2️⃣-Purchasing)
+  - [Product Receipt](#3️⃣-Product--Receipt)
+  - [Vendor Billing](#4️⃣-Vendor--Billing)
+  - [Supplier Payment](#5️⃣-Supplier--Payment)
 
 ## Background Business Case
 
