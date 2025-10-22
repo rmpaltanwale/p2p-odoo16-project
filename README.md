@@ -15,3 +15,6 @@
 ## Background Business Case
 
 This is a supply chain business case for the hypothetical company Banana Inc., a grocery store. From start to finish, this document describes how vendor sourcing, purchasing, product receipt, vendor billing, and supplier payment are implemented in Odoo 16’s Procure to Pay workflow.
+
+## Goals
+
