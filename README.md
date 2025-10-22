@@ -21,3 +21,5 @@ The goal of this project is to establish a new workflow for vendor sourcing, pur
 
 Start by creating Requests for Quotation.
 To do this, open the Purchase module from the dropdown list of modules on the top left.
+
+!(./Screenshots/Purchase module.png "Purchase module")
