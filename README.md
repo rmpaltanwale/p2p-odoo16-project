@@ -19,8 +19,11 @@ The goal of this project is to establish a new workflow for vendor sourcing, pur
 
 ### 1️⃣ Requests for Quotation
 
-Start by creating Requests for Quotation.
+Start by creating Requests for Quotation (RFQs).
 To do this, open the Purchase module from the dropdown list of modules on the top left.
 
 ![Purchase module](./Screenshots/Purchase_module.png)
 
+Now, click on the button "New" to create an RFQ.
+
+![Requests for Quotation](./Screenshots/Requests_for_Quotation.png)
