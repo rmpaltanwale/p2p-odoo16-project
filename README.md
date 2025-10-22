@@ -23,3 +23,4 @@ Start by creating Requests for Quotation.
 To do this, open the Purchase module from the dropdown list of modules on the top left.
 
 ![Purchase module](./Screenshots/Purchase_module.png)
+
