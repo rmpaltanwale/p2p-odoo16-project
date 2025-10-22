@@ -5,11 +5,7 @@
 - [Background Business Case](#background-business-case)
 - [Goals](#goals)
 - [Process](#process)
-  - [Vendor Sourcing](#1️⃣-Vendor--Sourcing)
-  - [Purchasing](#2️⃣-Purchasing)
-  - [Product Receipt](#3️⃣-Product--Receipt)
-  - [Vendor Billing](#4️⃣-Vendor--Billing)
-  - [Supplier Payment](#5️⃣-Supplier--Payment)
+  - [Requests for Quotation](#1️⃣-Requests--for--Quotation)
 
 ## Background Business Case
 
