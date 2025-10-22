@@ -15,5 +15,7 @@ This is a supply chain business case for the hypothetical company Banana Inc., a
 
 The goal of this project is to establish a new workflow for vendor sourcing, purchasing, product receipt, vendor billing, and supplier payment to improve the efficiency and accuracy of Banana Inc.’s procurement operations. Prior to this, the company relied on a fragmented and outdated purchasing system. This implementation will add value by enhancing supplier coordination, streamlining purchase approvals, improving inventory accuracy, and ensuring timely and transparent payments to vendors.
 
-##Process
+## Process
+
+### 1️⃣ Requests for Quotation
 
