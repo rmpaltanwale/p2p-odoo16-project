@@ -1,2 +1,5 @@
-# p2p-odoo16-project
-Procure to Pay (P2P) workflow implemented in Odoo 16 ERP
+# Procure 2 Pay - Odoo 16
+
+## 📚 Table of Contents
+
+- [Background Business Case](#background-business-case)
