@@ -31,3 +31,4 @@ Now, click on the button "New" to create an RFQ.
 This opens the form for a new RFQ.
 
 ![New RFQ form](./Screenshots/New_RFQ_form.png)
+
