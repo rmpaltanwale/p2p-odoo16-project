@@ -27,3 +27,6 @@ To do this, open the Purchase module from the dropdown list of modules on the to
 Now, click on the button "New" to create an RFQ.
 
 ![Requests for Quotation](./Screenshots/Requests_for_Quotation.png)
+
+This opens the form for a new RFQ.
+
