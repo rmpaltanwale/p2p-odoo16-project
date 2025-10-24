@@ -10,6 +10,7 @@
     - [Fill out RFQ](#Fill-out-RFQ)
     - [Send RFQ by email](#Send-RFQ-by-email)
     - [Confirm order](#Confirm-order)
+  - [Purchase Order](#2️⃣-Purchase-Order)
 
 ## Background Business Case
 
