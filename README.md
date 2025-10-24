@@ -79,3 +79,7 @@ Update the quantities in the "Done" column to match the quantities in the "Deman
 Click on P00115 to return to the Purchase order form. If you notice, it now has been updated with two columns that weren't there before; Received and Billed. For the next step, click on the top left button "Create Bill".
 
 ![CreateBillForPO](./Screenshots/CreateBillForPO.png)
+
+This opens the form of a newly drafted bill.
+
+![DraftBill](.DraftBill/Screenshots/.png)
