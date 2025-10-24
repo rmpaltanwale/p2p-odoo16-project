@@ -60,3 +60,6 @@ Click on "Confirm Order" on top left. This converts the RFQ into a purchase orde
 ### 2️⃣ Purchase Order
 
 #### Receive Products
+
+Now that the purchase order has been created, click on "Receive Products".
+
