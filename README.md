@@ -29,6 +29,7 @@ Now, click on the button "New" to create an RFQ.
 
 ![Requests for Quotation](./Screenshots/Requests_for_Quotation.png)
 
+#### Fill out RFQ
 This opens the form for a new RFQ.
 
 ![New RFQ form](./Screenshots/New_RFQ_form.png)
