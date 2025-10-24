@@ -103,3 +103,7 @@ The Posted bill form opens. For the next step, click on "Register Payment".
 A dialog box opens; click on "Create Payment" to proceed.
 
 ![RegisterPaymentDialog](./Screenshots/RegisterPaymentDialog.png)
+
+The payment has been made; the Procure to Pay process is now complete.
+
+![Paid](./Screenshots/Paid.png)
