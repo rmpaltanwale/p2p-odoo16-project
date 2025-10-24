@@ -80,6 +80,6 @@ Click on P00115 to return to the Purchase order form. If you notice, it now has 
 
 ![CreateBillForPO](./Screenshots/CreateBillForPO.png)
 
-This opens the form of a newly drafted bill. Review the subtotals and then click confirm.
+This opens the form of a newly drafted bill. Review the subtotals and then click confirm. Be sure to include the Bill Date as well.
 
 ![DraftBill](./Screenshots/DraftBill.png)
