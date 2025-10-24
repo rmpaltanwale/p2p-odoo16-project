@@ -72,3 +72,6 @@ Now that the purchase order has been created, click on "Receive Products" on the
 Update the quantities in the "Done" column to match the quantities in the "Demand" column. Next, click "Validate" on the top left.
 
 ![Validated](./Screenshots/Validated.png)
+
+### 3️⃣ Vendor Bill Creation
+
