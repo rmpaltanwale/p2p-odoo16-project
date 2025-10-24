@@ -84,6 +84,6 @@ This opens the form of a newly drafted bill. Review the subtotals and then click
 
 ![DraftBill](./Screenshots/DraftBill.png)
 
-The Posted bill form opens.
+The Posted bill form opens. For the next step, click on "Register Payment".
 
 ![PostedBill](./Screenshots/PostedBill.png)
