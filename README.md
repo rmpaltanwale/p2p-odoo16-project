@@ -99,3 +99,7 @@ This opens the form of a newly drafted bill. Review the subtotals and then click
 The Posted bill form opens. For the next step, click on "Register Payment".
 
 ![PostedBill](./Screenshots/PostedBill.png)
+
+A dialog box opens; click on "Create Payment" to proceed.
+
+![RegisterPaymentDialog](./Screenshots/RegisterPaymentDialog.png)
