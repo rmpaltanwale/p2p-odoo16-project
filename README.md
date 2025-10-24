@@ -55,3 +55,5 @@ Now that the RFQ is filled out, click on the button "Send by email" on the top l
 Click on "Confirm Order" on top left. This converts the RFQ into a purchase order.
 
 ![RFQtoPurchaseOrder](Screenshots/RFQtoPurchaseOrder.png)
+
+### 2️⃣ Purchase Order
