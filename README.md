@@ -18,6 +18,7 @@
     - [Confirm Bill](#Confirm-Bill)
   - [Payment Collection](#4️⃣-Payment-Collection)
     - [Register Payment](#Register-Payment)
+    - [Payment made](#Payment-Made)
 
 ## Background Business Case
 
@@ -103,6 +104,8 @@ The Posted bill form opens. For the next step, click on "Register Payment".
 A dialog box opens; click on "Create Payment" to proceed.
 
 ![RegisterPaymentDialog](./Screenshots/RegisterPaymentDialog.png)
+
+#### Payment made
 
 The payment has been made; the Procure to Pay process is now complete.
 
