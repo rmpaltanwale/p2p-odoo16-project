@@ -38,3 +38,4 @@ Fill out the necessary fields, such as Vendor and Order Deadline. Next, start ad
 
 Now that the RFQ is filled out, click on the button "Send by email" on the top left. This opens a dialog box titled: "Compose Email".
 
+![ComposeEmail](./Screenshots/ComposeEmail.png)
