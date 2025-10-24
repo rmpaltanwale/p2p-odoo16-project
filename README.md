@@ -6,6 +6,7 @@
 - [Goals](#goals)
 - [Process](#process)
   - [Requests for Quotation](#1️⃣-Requests--for--Quotation)
+    - [Create RFQ](#Create--RFQ)
 
 ## Background Business Case
 
