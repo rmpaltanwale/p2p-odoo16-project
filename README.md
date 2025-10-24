@@ -11,6 +11,8 @@
     - [Send RFQ by email](#Send-RFQ-by-email)
     - [Confirm order](#Confirm-order)
   - [Purchase Order](#2️⃣-Purchase-Order)
+    - [Receive Products](#Receive-Products)
+    - [Validate Order](#Validate-Order)
 
 ## Background Business Case
 
