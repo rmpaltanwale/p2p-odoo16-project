@@ -82,4 +82,4 @@ Click on P00115 to return to the Purchase order form. If you notice, it now has 
 
 This opens the form of a newly drafted bill.
 
-![DraftBill](.DraftBill/Screenshots/.png)
+![DraftBill](./Screenshots/DraftBill.png)
