@@ -24,7 +24,6 @@ The goal of this project is to establish a new workflow for vendor sourcing, pur
 
 ### 1️⃣ Requests for Quotation
 
-
 #### Create RFQ
 
 Start by creating Requests for Quotation (RFQs).
