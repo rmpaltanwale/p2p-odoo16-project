@@ -7,6 +7,9 @@
 - [Process](#process)
   - [Requests for Quotation](#1️⃣-Requests--for--Quotation)
     - [Create RFQ](#Create-RFQ)
+    - [Fill out RFQ](#Fill-out-RFQ)
+    - [Send RFQ by email](#Send-RFQ-by-email)
+    - [Confirm order](#Confirm-order)
 
 ## Background Business Case
 
