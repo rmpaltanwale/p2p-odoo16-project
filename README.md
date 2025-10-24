@@ -14,6 +14,10 @@
     - [Receive Products](#Receive-Products)
     - [Validate Order](#Validate-Order)
   - [Vendor Bill Creation](#3️⃣-Vendor-Bill-Creation)
+    - [Create Bill](#Create-Bill)
+    - [Confirm Bill](#Confirm-Bill)
+  - [Payment Collection](#4️⃣-Payment-Collection)
+    - [Register Payment](#Register-Payment)
 
 ## Background Business Case
 
@@ -76,13 +80,21 @@ Update the quantities in the "Done" column to match the quantities in the "Deman
 
 ### 3️⃣ Vendor Bill Creation
 
+#### Create Bill
+
 Click on P00115 to return to the Purchase order form. If you notice, it now has been updated with two columns that weren't there before; Received and Billed. For the next step, click on the top left button "Create Bill".
 
 ![CreateBillForPO](./Screenshots/CreateBillForPO.png)
 
+#### Confirm Bill
+
 This opens the form of a newly drafted bill. Review the subtotals and then click confirm. Be sure to include the Bill Date as well.
 
 ![DraftBill](./Screenshots/DraftBill.png)
+
+### 4️⃣ Payment Collection
+
+#### Register Payment
 
 The Posted bill form opens. For the next step, click on "Register Payment".
 
