@@ -24,6 +24,7 @@ The goal of this project is to establish a new workflow for vendor sourcing, pur
 ### 1️⃣ Requests for Quotation
 
 #### Create RFQ
+
 Start by creating Requests for Quotation (RFQs).
 To do this, open the Purchase module from the dropdown list of modules on the top left.
 
@@ -34,6 +35,7 @@ Now, click on the button "New" to create an RFQ.
 ![Requests for Quotation](./Screenshots/Requests_for_Quotation.png)
 
 #### Fill out RFQ
+
 This opens the form for a new RFQ.
 
 ![New RFQ form](./Screenshots/New_RFQ_form.png)
@@ -43,11 +45,13 @@ Fill out the necessary fields, such as Vendor and Order Deadline. Next, start ad
 ![FilledOutRFQ](./Screenshots/FilledOutRFQ.png)
 
 #### Send RFQ by email
+
 Now that the RFQ is filled out, click on the button "Send by email" on the top left. This opens a dialog box titled: "Compose Email". Click on Send (bottom left); this sends the RFQ to the vendor (in this case, Alice Martin) by email.
 
 ![ComposeEmail](./Screenshots/ComposeEmail.png)
 
 #### Confirm order
+
 Click on "Confirm Order" on top left. This converts the RFQ into a purchase order.
 
 ![RFQtoPurchaseOrder](Screenshots/RFQtoPurchaseOrder.png)
