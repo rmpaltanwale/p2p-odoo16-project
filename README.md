@@ -35,3 +35,6 @@ This opens the form for a new RFQ.
 Fill out the necessary fields, such as Vendor and Order Deadline. Next, start adding products to be purchased. Then, appropriately update the quantities.
 
 ![FilledOutRFQ](./Screenshots/FilledOutRFQ.png)
+
+Now that the RFQ is filled out, click on the button "Send by email" on the top left. This opens a dialog box titled: "Compose Email".
+
