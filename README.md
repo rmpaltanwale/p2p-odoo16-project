@@ -33,3 +33,5 @@ This opens the form for a new RFQ.
 ![New RFQ form](./Screenshots/New_RFQ_form.png)
 
 Fill out the necessary fields, such as Vendor and Order Deadline. Next, start adding products to be purchased. Then, appropriately update the quantities.
+
+![FilledOutRFQ](./Screenshots/FilledOutRFQ.png)
