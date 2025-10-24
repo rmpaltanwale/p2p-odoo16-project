@@ -61,6 +61,6 @@ Click on "Confirm Order" on top left. This converts the RFQ into a purchase orde
 
 #### Receive Products
 
-Now that the purchase order has been created, click on "Receive Products".
+Now that the purchase order has been created, click on "Receive Products" on the top left of the form above. This opens the receipt for the purchase order, given below.
 
 ![Receipt_PurchaseOrder](Screenshots/Receipt_PurchaseOrder.png)
