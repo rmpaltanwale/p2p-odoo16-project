@@ -36,8 +36,6 @@ Fill out the necessary fields, such as Vendor and Order Deadline. Next, start ad
 
 ![FilledOutRFQ](./Screenshots/FilledOutRFQ.png)
 
-Now that the RFQ is filled out, click on the button "Send by email" on the top left. 
+Now that the RFQ is filled out, click on the button "Send by email" on the top left. This opens a dialog box titled: "Compose Email". Click on Send (bottom left); this sends the RFQ to the vendor (in this case, Alice Martin) by email.
 
 ![ComposeEmail](./Screenshots/ComposeEmail.png)
-
-This opens a dialog box titled: "Compose Email". Click on Send (bottom left); this sends the RFQ to the vendor (in this case, Alice Martin) by email.
