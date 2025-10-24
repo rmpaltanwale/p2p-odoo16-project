@@ -13,6 +13,7 @@
   - [Purchase Order](#2️⃣-Purchase-Order)
     - [Receive Products](#Receive-Products)
     - [Validate Order](#Validate-Order)
+  - [Vendor Bill Creation](#3️⃣-Vendor-Bill-Creation)
 
 ## Background Business Case
 
