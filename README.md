@@ -58,3 +58,5 @@ Click on "Confirm Order" on top left. This converts the RFQ into a purchase orde
 ![RFQtoPurchaseOrder](Screenshots/RFQtoPurchaseOrder.png)
 
 ### 2️⃣ Purchase Order
+
+#### Receive Products
